@@ -1,4 +1,3 @@
-// Problem - 1
 
 {
     // 
@@ -21,8 +20,6 @@
 }
 
 
-// Problem-2
-
 {
     // 
 
@@ -43,9 +40,6 @@ const filterByRating = (item : { title : string; rating : number } []) : {title 
 }
 
 
-// Problem-3
-
-
 {
     // 
 
@@ -60,8 +54,6 @@ const filterByRating = (item : { title : string; rating : number } []) : {title 
     // 
 }
 
-
-// Problem-4
 
 {
     // 
@@ -102,8 +94,6 @@ const filterByRating = (item : { title : string; rating : number } []) : {title 
 }
 
 
-// Problem-5
-
 {
     // 
 
@@ -125,8 +115,6 @@ const filterByRating = (item : { title : string; rating : number } []) : {title 
     // 
 }
 
-
-// Problem-6
 
 {
     // 
@@ -162,8 +150,6 @@ const filterByRating = (item : { title : string; rating : number } []) : {title 
     // 
 }
 
-
-// Problem-7
 
 {
     // 
